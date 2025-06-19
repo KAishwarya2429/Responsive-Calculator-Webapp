@@ -25,4 +25,4 @@ This project showcases frontend design skills and lays the foundation for future
 ### Clone the repository
 
 ```bash
-git clone https://github.com/KAishwarya2429/calculator-html-css.git
+git clone https://github.com/KAishwarya2429/Responsive-Calculator-Webapp.git
