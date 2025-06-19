@@ -15,7 +15,7 @@ This project showcases frontend design skills and lays the foundation for future
 ##  Features
 
 - Simple and elegant calculator layout  
-- Responsive design (optional if you've used media queries)  
+- Responsive design  
 - Styled with custom CSS for better UI
 
 ---
